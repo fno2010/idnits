@@ -1,0 +1,5 @@
+# Currently, the ignore list is empty.
+# Please add file patterns which should be ignored by git.
+
+# binary generation
+bin
